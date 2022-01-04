@@ -1,5 +1,5 @@
 # LIVE DEMO RUNNING ON LOCALHOST
-![Alt Text](SocialMedia .gif)
+![Alt Text](SocialMedia.gif)
 
 
 # Getting Started with Create React App
